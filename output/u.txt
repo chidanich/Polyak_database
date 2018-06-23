@@ -1,0 +1,940 @@
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   31  
+Average age :386.45
+Sample variance of age: :3833877.54
+Average transfer value :3584229398.23
+Sample variance of transfer value :385401009695741247488.00
+Average salary :35842296.50
+Sample variance of salary :38540100781439088.00
+
+Total :
+
+Number of items:   31  
+Average age :386.45
+Sample variance of age: :3833877.54
+Average transfer value :3584229398.23
+Sample variance of transfer value :385401009695741247488.00
+Average salary :35842296.50
+Sample variance of salary :38540100781439088.00
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   5  
+Average age :27.20
+Sample variance of age: :8.56
+Average transfer value :11.60
+Sample variance of transfer value :50.54
+Average salary :2.88
+Sample variance of salary :1.69
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   29  
+Average age :29.17
+Sample variance of age: :12.56
+Average transfer value :7.45
+Sample variance of transfer value :25.52
+Average salary :2.60
+Sample variance of salary :0.54
+
+Total :
+
+Number of items:   30  
+Average age :29.17
+Sample variance of age: :12.14
+Average transfer value :7.34
+Sample variance of transfer value :25.05
+Average salary :2.61
+Sample variance of salary :0.53
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.79
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.77
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   1  
+Average age :26.00
+Sample variance of age: :0.00
+Average transfer value :22.00
+Sample variance of transfer value :0.00
+Average salary :3.80
+Sample variance of salary :0.00
+
+Total :
+
+Number of items:   15  
+Average age :28.87
+Sample variance of age: :11.45
+Average transfer value :8.73
+Sample variance of transfer value :35.36
+Average salary :2.91
+Sample variance of salary :0.83
+
+Total :
+
+Number of items:   15  
+Average age :28.40
+Sample variance of age: :9.71
+Average transfer value :8.50
+Sample variance of transfer value :29.13
+Average salary :2.46
+Sample variance of salary :0.34
+
+Total :
+
+Number of items:   2  
+Average age :30.00
+Sample variance of age: :4.00
+Average transfer value :9.75
+Sample variance of transfer value :27.56
+Average salary :2.65
+Sample variance of salary :0.06
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.77
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   9  
+Average age :29.33
+Sample variance of age: :10.67
+Average transfer value :8.76
+Sample variance of transfer value :41.20
+Average salary :3.78
+Sample variance of salary :0.40
+
+Total :
+
+Number of items:   9  
+Average age :29.33
+Sample variance of age: :10.67
+Average transfer value :8.76
+Sample variance of transfer value :41.20
+Average salary :3.78
+Sample variance of salary :0.40
+
+Total :
+
+Number of items:   9  
+Average age :29.33
+Sample variance of age: :10.67
+Average transfer value :8.76
+Sample variance of transfer value :41.20
+Average salary :3.78
+Sample variance of salary :0.40
+
+Total :
+
+Number of items:   9  
+Average age :29.33
+Sample variance of age: :10.67
+Average transfer value :8.76
+Sample variance of transfer value :41.20
+Average salary :3.78
+Sample variance of salary :0.40
+
+Total :
+
+Number of items:   6  
+Average age :29.17
+Sample variance of age: :4.47
+Average transfer value :8.77
+Sample variance of transfer value :40.32
+Average salary :3.40
+Sample variance of salary :0.11
+
+Total :
+
+Number of items:   9  
+Average age :29.33
+Sample variance of age: :10.67
+Average transfer value :8.76
+Sample variance of transfer value :41.20
+Average salary :3.78
+Sample variance of salary :0.40
+
+Total :
+
+Number of items:   7  
+Average age :29.14
+Sample variance of age: :13.27
+Average transfer value :9.96
+Sample variance of transfer value :46.41
+Average salary :4.00
+Sample variance of salary :0.30
+
+Total :
+
+Number of items:   30  
+Average age :29.17
+Sample variance of age: :12.14
+Average transfer value :7.34
+Sample variance of transfer value :25.03
+Average salary :2.61
+Sample variance of salary :0.53
+
+Total :
+
+Number of items:   1  
+Average age :23.00
+Sample variance of age: :0.00
+Average transfer value :18.00
+Sample variance of transfer value :0.00
+Average salary :5.00
+Sample variance of salary :0.00
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.77
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   23  
+Average age :27.52
+Sample variance of age: :7.99
+Average transfer value :8.90
+Sample variance of transfer value :29.31
+Average salary :2.57
+Sample variance of salary :0.60
+
+Total :
+
+Number of items:   16  
+Average age :29.00
+Sample variance of age: :3.00
+Average transfer value :7.24
+Sample variance of transfer value :20.42
+Average salary :2.43
+Sample variance of salary :0.30
+
+Total :
+
+Number of items:   24  
+Average age :30.38
+Sample variance of age: :7.07
+Average transfer value :6.22
+Sample variance of transfer value :17.94
+Average salary :2.63
+Sample variance of salary :0.54
+
+Total :
+
+Number of items:   7  
+Average age :27.14
+Sample variance of age: :0.12
+Average transfer value :10.64
+Sample variance of transfer value :21.27
+Average salary :2.44
+Sample variance of salary :0.21
+
+Total :
+
+Number of items:   29  
+Average age :28.52
+Sample variance of age: :10.25
+Average transfer value :8.14
+Sample variance of transfer value :26.46
+Average salary :2.70
+Sample variance of salary :0.73
+
+Total :
+
+Number of items:   23  
+Average age :29.13
+Sample variance of age: :10.46
+Average transfer value :5.91
+Sample variance of transfer value :7.56
+Average salary :2.59
+Sample variance of salary :0.60
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.77
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.77
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.77
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   31  
+Average age :28.97
+Sample variance of age: :12.93
+Average transfer value :7.68
+Sample variance of transfer value :27.77
+Average salary :2.69
+Sample variance of salary :0.69
+
+Total :
+
+Number of items:   32  
+Average age :28.09
+Sample variance of age: :36.21
+Average transfer value :7.47
+Sample variance of transfer value :28.25
+Average salary :2.64
+Sample variance of salary :0.75
+
+Total :
+
+Number of items:   33  
+Average age :27.27
+Sample variance of age: :56.68
+Average transfer value :7.28
+Sample variance of transfer value :28.63
+Average salary :2.59
+Sample variance of salary :0.81
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.81
+Sample variance of transfer value :28.20
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.70
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
+Total :
+
+Number of items:   29  
+Average age :28.86
+Sample variance of age: :13.50
+Average transfer value :7.73
+Sample variance of transfer value :29.05
+Average salary :2.69
+Sample variance of salary :0.73
+
+Total :
+
+Number of items:   30  
+Average age :28.97
+Sample variance of age: :13.37
+Average transfer value :7.80
+Sample variance of transfer value :28.25
+Average salary :2.68
+Sample variance of salary :0.71
+
